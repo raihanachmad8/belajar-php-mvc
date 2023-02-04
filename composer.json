@@ -1,0 +1,12 @@
+{
+    "name": "raihanachmad8/php-mvc",
+    "description": "Belajar php MVC",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Achmad Raihan Fahrezi Effendy",
+            "email": "raihanachmad8@gmail.com"
+        }
+    ],
+    "require": {}
+}
